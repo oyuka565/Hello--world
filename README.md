@@ -1,2 +1,43 @@
-# hello-world
-just another repository
+# This is my laboratories
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome to Internet Technology Fundamentals</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1>This is my laboratories.</h1>
+	<ul>
+		<li>
+			<a href="/">Laboratory 1</a>
+		</li>
+		<li>
+			<a href="#">Laboratory 2</a>
+		</li>
+		<li>
+			<a href="#">Laboratory 3</a>
+		</li>
+		<li>
+			<a href="#">Laboratory 4</a>
+		</li>
+		<li>
+			<a href="#">Laboratory 5</a>
+		</li>
+		<li>
+			<a href="#">Laboratory 6</a>
+		</li>
+		<li>
+			<a href="#">Laboratory 7</a>
+		</li>
+		<li>
+			<a href="#">Laboratory 8</a>
+		</li>
+		<li>
+			<a href="#">Laboratory 9</a>
+		</li>
+		<li>
+			<a href="#">Laboratory 10</a>
+		</li>
+	</ul>
+</body>
+</html>
